@@ -1,0 +1,4 @@
+https://blog.csdn.net/auccy/article/details/106789612
+https://www.wikihow.com/Edit-APK-Files
+https://github.com/iBotPeaches/Apktool/issues/731
+https://github.com/karma9874/AndroRAT/issues/105
